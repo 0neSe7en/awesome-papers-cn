@@ -1,16 +1,14 @@
 # awesome-papers-cn
 
-* [Making reliable distributed systems in the presence of software errors](http://erlang.org/download/armstrong_thesis_2003.pdf) Erlang。PhD thesis of Joe Armstrong, Erlang’s co-inventor, describing the origins of Erlang.
-[中译](resources/面对软件错误构建可靠的分布式系统.pdf)
-* [The Google File System](https://research.google.com/archive/gfs-sosp2003.pdf) GFS。
-[中译](resources/Google-File-System.pdf)
-* [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf) RESTful。 Roy Thomas Fielding 博士是 HTTP 和 URI 等 Web 架构标准的主要设计者，Apache HTTP 服务器的主要开发者。他为 Web 架构的设计作出极其杰出的贡献，他的工作为 Web 架构奠定了坚实的基础。 [
-中译](resources/架构风格与基于网络的软件架构设计.pdf)
-* [In Search of an Understandable Consensus Algorithm](https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf) Raft算法。 
-[中译](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
-* [The Part-Time Parliament-Leslie Lamport](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) Paxos算法 [中译](resources/The_Part-Time_Parliament.pdf) 
-* [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) Paxos算法
-[中译](https://github.com/oldratlee/translations/tree/master/paxos-made-simple)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+
+- [Making reliable distributed systems in the presence of software errors](http://erlang.org/download/armstrong_thesis_2003.pdf) [🇨🇳](resources/面对软件错误构建可靠的分布式系统.pdf) - Erlang. PhD thesis of Joe Armstrong, Erlang’s co-inventor, describing the origins of Erlang.
+- [The Google File System](https://research.google.com/archive/gfs-sosp2003.pdf) [🇨🇳](resources/Google-File-System.pdf) - GFS.
+- [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf) [🇨🇳](resources/架构风格与基于网络的软件架构设计.pdf) - RESTful. Roy Thomas Fielding 博士是 HTTP 和 URI 等 Web 架构标准的主要设计者，Apache HTTP 服务器的主要开发者。他为 Web 架构的设计作出极其杰出的贡献，他的工作为 Web 架构奠定了坚实的基础。 
+- [In Search of an Understandable Consensus Algorithm](https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf) [🇨🇳](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md) - Raft算法.
+- [The Part-Time Parliament-Leslie Lamport](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) [🇨🇳](resources/The_Part-Time_Parliament.pdf) - Paxos算法. 
+- [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) [🇨🇳](https://github.com/oldratlee/translations/tree/master/paxos-made-simple) - Paxos算法
 
 ## Find More Papers
 
