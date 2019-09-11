@@ -8,7 +8,8 @@
 中译](resources/架构风格与基于网络的软件架构设计.pdf)
 * [In Search of an Understandable Consensus Algorithm](https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf) Raft算法。 
 [中译](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
-* [The Part-Time Parliament-Leslie Lamport](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) [中译](resources/The_Part-Time_Parliament.pdf) Paxos算法 [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
+* [The Part-Time Parliament-Leslie Lamport](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) Paxos算法 [中译](resources/The_Part-Time_Parliament.pdf) 
+* [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) Paxos算法
 [中译](https://github.com/oldratlee/translations/tree/master/paxos-made-simple)
 
 ## Find More Papers
